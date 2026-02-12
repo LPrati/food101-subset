@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = research-datastes
+['remote "research-datastes"']
+    url = gs://praia-mlops-zero-to-hero/food101-subset
